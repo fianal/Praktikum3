@@ -8,4 +8,5 @@
 
 ![gambar](Screenshot/Praktikum3.png)
 
-![gambar](Screenshot/Flowchar.png)
+
+![gambar](Screenshot/Flowchart.png)
